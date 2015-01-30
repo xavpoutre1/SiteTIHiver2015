@@ -67,6 +67,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Default.aspx" />
+    <Content Include="Noms.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
